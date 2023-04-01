@@ -28,7 +28,7 @@ public class substring {
 					  if(g.length()>1)
 					  {   
 						   che=plaindrome(g); 
-						   System.out.println(che);
+// 						   System.out.println(che);
 						   if(b.length()<che.length()) b=che;
 					  }
 					  
